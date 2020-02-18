@@ -1,3 +1,7 @@
 testfile.txt
 
 Bla bla bla
+
+{
+    "names": [ "Edward", "Ellen", "Patricia" ]
+}
